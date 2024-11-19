@@ -36,10 +36,3 @@ IPL-Team-Management-System
 ├── pom.xml          # Maven configuration file
 └── README.md        # Project documentation
 ```
-## Installation and Setup
-
-1. Open the project in an IDE (e.g., IntelliJ IDEA, Eclipse).  
-2. Configure the database connection in the DAO layer by providing your database URL, username, and password.  
-3. Ensure all Maven dependencies are downloaded using:  
-   ```bash
-   mvn clean install
